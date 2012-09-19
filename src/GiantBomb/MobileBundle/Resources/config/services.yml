@@ -1,0 +1,7 @@
+parameters:
+#    giant_bomb_mobile.example.class: GiantBomb\MobileBundle\Example
+
+services:
+#    giant_bomb_mobile.example:
+#        class: %giant_bomb_mobile.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
