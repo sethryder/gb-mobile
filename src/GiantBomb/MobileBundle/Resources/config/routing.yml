@@ -1,3 +1,0 @@
-giant_bomb_mobile_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: GiantBombMobileBundle:Default:index }
