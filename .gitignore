@@ -1,12 +1,16 @@
-# Bootstrap
-app/bootstrap*
+*~
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+.buildpath
+.project
+.settings
+*.tmproj
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
+build
+nbproject/
+.idea
 
-# Symfony directories
-vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
-
-# Configuration files
-app/config/parameters.ini
+/fuel/app/config/crypt.php
